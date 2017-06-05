@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=org.lc -DartifactId=commons-spring -Dversion=1.0.0.SNAPSHOT -DinteractiveMode=false
